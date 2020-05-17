@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+.env
+package-lock.json
+coverage
+.vscode
+.nyc_output
+logs
+.environment
+npm-debug.log
+out
