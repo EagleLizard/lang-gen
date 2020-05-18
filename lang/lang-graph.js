@@ -34,8 +34,28 @@ module.exports = class LangGraph {
     return this.get(word) !== undefined;
   }
 
+  breadthFirst(startWord, endWord) {
+    let self, startNode, toVisit;
+    self = this;
+    startNode = self.get(startWord);
+    toVisit = startNode.refs;
+    return breadthFirstHelper(toVisit);
+    function breadthFirstHelper(queue, soFar) {
+      let nextQueue;
+      if(soFar === undefined) soFar = 1;
+      nextQueue = [];
+      for(let i = 0, currNode; i < queue.length, currNode = queue[i]; ++i) {
+        if(currNode.value === endWord) {
+          return soFar;
+        }
+        nextQueue.push(...currNode.refs);
+      }
+      return breadthFirstHelper(nextQueue, soFar + 1);
+    }
+  }
+
   getProducer(seed) {
-    let self, idx, currNode;
+    let self, idx, currNode, lastNode;
     self = this;
     if(seed === undefined) {
       // pick one at random
@@ -57,6 +77,7 @@ module.exports = class LangGraph {
           return 0;
         });
         randIdx = randWeightedIdx(chanceTuples);
+        lastNode = currNode;
         currNode = self.get(chanceTuples[randIdx][0]);
       }
     }

@@ -12,8 +12,11 @@ module.exports = {
   analyze,
 };
 
-function analyze(parsedData, filePath) {
-  let parsedPath, wordMap, graphName, langGraph;
+async function analyze(parsedData, filePath) {
+  let parsedPath, graphName, langGraph;
+  let wordMap, wordTuples;
+  let startMs, endMs;
+  startMs = Date.now();
   parsedPath = path.parse(filePath);
   graphName = parsedPath.name;
   wordMap = parsedData.reduce((acc, curr) => {
@@ -23,21 +26,25 @@ function analyze(parsedData, filePath) {
     acc.set(curr, acc.get(curr) + 1);
     return acc;
   }, new Map());
-  // writeOutFileWithTimestamp(
-  //   filePath,
-  //   [ ...wordMap ].map(wordTuple => `${wordTuple[0]}: ${wordTuple[1]}\n`).join(''),
-  //   `COUNT_${parsedPath.name}`
-  // );
-  // writeOutFile(filePath, [ ...wordMap ].map(wordTuple => `${wordTuple[0]}: ${wordTuple[1]}\n`).join(''));
+  wordTuples = [ ...wordMap ];
+  wordTuples.sort((a, b) => {
+    if(a[1] > b[1]) return -1;
+    if(a[1] < b[1]) return 1;
+    return 0;
+  });
+  // await writeOutFile(filePath, wordTuples.map(tuple => `${tuple[0]}: ${tuple[1]}\n`).join(''));
   langGraph = new LangGraph(graphName);
   parsedData.forEach(word => {
     langGraph.add(word);
   });
+  endMs = Date.now();
+  console.log(`Analyze: ${endMs - startMs}`);
   return langGraph;
 }
 
 async function parseFile(filePath) {
   let dataStr, words;
+  console.log(`${path.parse(filePath).base}\n`);
   dataStr = (await files.readFile(filePath)).toString();
   dataStr = scrubPunctuation(dataStr);
   await files.mkdirIfNotExists(OUT_PATH);
@@ -57,46 +64,64 @@ function scrubPunctuation(dataStr) {
 */
 function parseWords(dataStr) {
   let rawLines, trimmedLines, rawWords, words;
+  let startMs, endMs;
   // scrub any carriage return chars
   dataStr = dataStr.replace(/\r/g, '');
   rawLines = dataStr.split('\n');
+  startMs = Date.now();
   trimmedLines = rawLines.map((line => line.trim())).filter(line => line.length > 0);
   rawWords = trimmedLines.reduce((acc, curr) => {
     let splatLine;
     splatLine = curr.split(' ');
-    return [ ...acc, ...splatLine ];
+    acc.push(...splatLine);
+    return acc;
   }, [])
     .map(word => word.trim())
     .filter(word => word.length > 0);
+  endMs = Date.now();
+  console.log(`Trimming: ${endMs - startMs}ms`);
+  startMs = Date.now();
+  words = [];
   words = rawWords.reduce((acc, curr) => {
-    let words, punctWords, hasPunctWord, nonPunctStack;
+    let punctWords, hasPunctWord;
     // we'll treat some punctuations as separate words for this use case
-    words = [];
+    punctWords = [];
     hasPunctWord = PUNCT_WORDS.some(punctWord => curr.includes(punctWord));
     if(hasPunctWord) {
-      nonPunctStack = [];
-      curr.split('').forEach(char => {
-        let foundPunctIdx;
-        foundPunctIdx = PUNCT_WORDS.findIndex(punctWord => punctWord === char);
-        if(foundPunctIdx === -1) {
-          nonPunctStack.push(char);
-        } else {
-          if(nonPunctStack.length > 0) {
-            words.push(nonPunctStack.join(''));
-            nonPunctStack = [];
-          }
-          words.push(PUNCT_WORDS[foundPunctIdx]);
-        }
-      });
+      punctWords = parsePuncWord(curr);
+    } else {
+      punctWords = [ curr ];
+    }
+    acc.push(...punctWords);
+    return acc;
+  }, []);
+  endMs = Date.now();
+  console.log(`Parsing words: ${endMs - startMs}ms`);
+  return words;
+}
+
+function parsePuncWord(word) {
+  let nonPunctStack, words, splatChars;
+  nonPunctStack = [];
+  words = [];
+  splatChars = word.split('');
+  for(let i = 0, char; i < splatChars.length, char = splatChars[i]; ++i) {
+    let foundPunctIdx;
+    foundPunctIdx = PUNCT_WORDS.findIndex(punctWord => punctWord === char);
+    if(foundPunctIdx === -1) {
+      nonPunctStack.push(char);
+    } else {
       if(nonPunctStack.length > 0) {
         words.push(nonPunctStack.join(''));
         nonPunctStack = [];
       }
-    } else {
-      words = [ curr ];
+      words.push(PUNCT_WORDS[foundPunctIdx]);
     }
-    return [ ...acc, ...words ];
-  }, []);
+  }
+  if(nonPunctStack.length > 0) {
+    words.push(nonPunctStack.join(''));
+    nonPunctStack = [];
+  }
   return words;
 }
 
