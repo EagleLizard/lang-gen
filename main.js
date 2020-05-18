@@ -11,7 +11,7 @@ const BOOK_OF_MORMON_FILE_PATH = `${DATA_PATH}/book_of_mormon.txt`;
 const US_CONSTITUTION_FILE_PATH = `${DATA_PATH}/us_constitution.txt`;
 const MANIFESTO_FILE_PATH = `${DATA_PATH}/manifesto.txt`;
 
-const PARAGRAPH_MAX = 4;
+const PARAGRAPH_MAX = 5;
 
 (async () => {
   try {
@@ -35,7 +35,7 @@ async function main() {
         // ART_OF_WAR_FILE_PATH,
         // BOOK_OF_MORMON_FILE_PATH,
         // KING_JAMES_BIBLE_FILE_PATH,
-        // US_CONSTITUTION_FILE_PATH,
+        US_CONSTITUTION_FILE_PATH,
         // MANIFESTO_FILE_PATH,
       ].map(parseLang.parseFile)
     )
@@ -72,7 +72,7 @@ function foreverLangFast(langProducer) {
     }
     if(insertNewline === true) {
       insertNewline = false;
-      process.stdout.write('\n\t');
+      process.stdout.write('\n\t\t');
     }
   }
 }
