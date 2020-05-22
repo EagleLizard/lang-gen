@@ -17,8 +17,8 @@ SALUTATION TO DHARMA, ARTHA AND KAMA.
 
 In the beginning, the Lord of Beings created men and women, and in the
 form of commandments in one hundred thousand chapters laid down rules
-for regulating their existence with regard to Dharma,[1] Artha,[2] and
-Kama.[3] Some of these commandments, namely those which treated of
+for regulating their existence with regard to Dharma, Artha, and
+Kama. Some of these commandments, namely those which treated of
 Dharma, were separately written by Swayambhu Manu; those that related to
 Artha were compiled by Brihaspati; and those that referred to Kama were
 expounded by Nandi, the follower of Mahadeva, in one thousand chapters.
@@ -68,20 +68,6 @@ each part related, and moreover as the original work of Babhravya was
 difficult to be mastered on account of its length, Vatsyayana,
 therefore, composed his work in a small volume as an abstract of the
 whole of the works of the above-named authors.
-
-FOOTNOTES:
-
-[Footnote 1: Dharma is acquisition of religious merit, and is fully
-described in Chapter 5, Volume III., of Talboys Wheeler's 'History of
-India,' and in the edicts of Asoka.]
-
-[Footnote 2: Artha is acquisition of wealth and property, etc.]
-
-[Footnote 3: Kama is love, pleasure and sensual gratification.
-
-These three words are retained throughout in their original, as
-technical terms. They may also be defined as virtue, wealth and
-pleasure, the three things repeatedly spoken of in the Laws of Manu.]
 
 
 
@@ -311,7 +297,7 @@ being preceded by thought of any kind.
 
 _Objection 2._
 
-The Lokayatikas[4] say:--Religious ordinances should not be observed,
+The Lokayatikas say:--Religious ordinances should not be observed,
 for they bear a future fruit, and at the same time it is also doubtful
 whether they will bear any fruit at all. What foolish person will give
 away that which is in his own hands into the hands of another?
@@ -332,7 +318,7 @@ for the fall of rain, are seen to bear fruit.
 work intentionally for the good of the world.
 
 4th. The existence of this world is effected by the observance of the
-rules respecting the four classes[5] of men and their four stages of
+rules respecting the four classes of men and their four stages of
 life.
 
 5th. We see that seed is thrown into the ground with the hope of future
@@ -349,7 +335,7 @@ should not exert ourselves to acquire wealth, for sometimes it is not
 acquired although we strive to get it, while at other times it comes to
 us of itself without any exertion on our part. Everything is therefore
 in the power of destiny, who is the lord of gain and loss, of success
-and defeat, of pleasure and pain. Thus we see the Bali[6] was raised to
+and defeat, of pleasure and pain. Thus we see the Bali was raised to
 the throne of Indra by destiny, and was also put down by the same power,
 and it is destiny only that can re-instate him.
 
@@ -377,11 +363,11 @@ carelessness and levity. And lastly, they cause him to be disbelieved by
 all, received by none, and despised by everybody, including himself. It
 is notorious, moreover, that many men who have given themselves up to
 pleasure alone, have been ruined along with their families and
-relations. Thus, King Dandakya,[7] of the Bhoja dynasty, carried off a
+relations. Thus, King Dandakya, of the Bhoja dynasty, carried off a
 Brahman's daughter with evil intent, and was eventually ruined and lost
-his kingdom. Indra, too, having violated the chastity of Ahalya,[8] was
-made to suffer for it. In a like manner the mighty Kichaka,[9] who tried
-to seduce Draupadi, and Ravana,[10] who attempted to gain over Sita, were
+his kingdom. Indra, too, having violated the chastity of Ahalya, was
+made to suffer for it. In a like manner the mighty Kichaka, who tried
+to seduce Draupadi, and Ravana, who attempted to gain over Sita, were
 punished for their crimes. These and many others fell by reason of their
 pleasures.
 
@@ -404,41 +390,6 @@ which conduces to the practice of Dharma, Artha and Kama together, or of
 any two, or even one of them, should be performed, but an action which
 conduces to the practice of one of them at the expense of the remaining
 two should not be performed.
-
-FOOTNOTES:
-
-[Footnote 4: These were certainly materialists who seemed to think that
-a bird in the hand was worth two in the bush.]
-
-[Footnote 5: Among the Hindoos the four classes of men are the Brahmans
-or priestly class, the Kshutrya or warlike class, the Vaishya or
-agricultural and mercantile class, and the Shoodra or menial class. The
-four stages of life are, the life of a religious student, the life of a
-householder, the life of a hermit, and the life of a Sunyasi or
-devotee.]
-
-[Footnote 6: Bali was a demon who had conquered Indra and gained his
-throne, but was afterwards overcome by Vishnu at the time of his fifth
-incarnation.]
-
-[Footnote 7: Dandakya is said to have abducted from the forest the
-daughter of a Brahman, named Bhargava, and being cursed by the Brahman,
-was buried with his kingdom under a shower of dust. The place was called
-after his name the Dandaka forest, celebrated in the Ramayana, but now
-unknown.]
-
-[Footnote 8: Ahalya was the wife of the sage Gautama. Indra caused her
-to believe that he was Gautama, and thus enjoyed her. He was cursed by
-Gautama and subsequently afflicted with a thousand ulcers on his body.]
-
-[Footnote 9: Kichaka was the brother-in-law of King Virata, with whom
-the Pandavas had taken refuge for one year. Kichaka was killed by Bhima,
-who assumed the disguise of Draupadi. For this story the Mahabarata
-should be referred to.]
-
-[Footnote 10: The story of Ravana is told in the Ramayana, which with the
-Mahabarata form the two great epic poems of the Hindoos; the latter was
-written by Vyasa, and the former by Valmiki.]
 
 
 
@@ -471,7 +422,7 @@ the science of astrology. In a like manner riders of horses and
 elephants train these animals without knowing the science of training
 animals, but from practice only. And similarly the people of the most
 distant provinces obey the laws of the kingdom from practice, and
-because there is a king over them, and without further reason.[11] And
+because there is a king over them, and without further reason. And
 from experience we find that some women, such as daughters of princes
 and their ministers, and public women, are actually versed in the Kama
 Shastra.
@@ -481,7 +432,7 @@ of it, by studying its practice from some confidential friend. She
 should study alone in private the sixty-four practices that form a part
 of the Kama Shastra. Her teacher should be one of the following persons,
 viz., the daughter of a nurse brought up with her and already
-married,[12] or a female friend who can be trusted in everything, or the
+married, or a female friend who can be trusted in everything, or the
 sister of her mother (_i.e._, her aunt), or an old female servant, or a
 female beggar who may have formerly lived in the family, or her own
 sister, who can always be trusted.
@@ -669,25 +620,17 @@ who is versed in these arts, who is loquacious and acquainted with the
 arts of gallantry, gains very soon the hearts of women, even though he
 is only acquainted with them for a short time.
 
-FOOTNOTES:
-
-[Footnote 11: The author wishes to prove that a great many things are
-done by people from practice and custom, without their being acquainted
-with the reason of things, or the laws on which they are based, and this
-is perfectly true.]
-
-[Footnote 12: The proviso of being married applies to all the teachers.]
 
 
 
 
 CHAPTER IV.
 
-THE LIFE OF A CITIZEN.[13]
+THE LIFE OF A CITIZEN.
 
 
 Having thus acquired learning, a man, with the wealth that he may have
-gained by gift, conquest, purchase, deposit,[14] or inheritance from his
+gained by gift, conquest, purchase, deposit, or inheritance from his
 ancestors, should become a householder, and pass the life of a citizen.
 He should take a house in a city, or large village, or in the vicinity
 of good men, or in a place which is the resort of many persons. This
@@ -697,7 +640,7 @@ garden, and also contain two rooms, an outer and an inner one. The inner
 room should be occupied by the females, while the outer room, balmy with
 rich perfumes, should contain a bed, soft, agreeable to the sight
 covered with a clean white cloth, low in the middle part, having
-garlands and bunches of flowers[15] upon it, and a canopy above it, and
+garlands and bunches of flowers upon it, and a canopy above it, and
 two pillows, one at the top, another at the bottom. There should be also
 a sort of couch besides, and at the head of this a sort of stool, on
 which should be placed the fragrant ointments for the night, as well as
@@ -709,28 +652,28 @@ tooth of an elephant, a board for drawing, a pot containing perfume,
 some books, and some garlands of the yellow amaranth flowers. Not far
 from the couch, and on the ground, there should be a round seat, a toy
 cart, and a board for playing with dice; outside the outer room
-there should be cages of birds,[16] and a separate place for spinning,
+there should be cages of birds, and a separate place for spinning,
 carving, and such like diversions. In the garden there should be a
 whirling swing and a common swing, as also a bower of creepers covered
 with flowers, in which a raised parterre should be made for sitting.
 
 Now the householder having got up in the morning and performed his
-necessary duties,[17] should wash his teeth, apply a limited quantity of
+necessary duties, should wash his teeth, apply a limited quantity of
 ointments and perfumes to his body, put some ornaments on his person and
 collyrium on his eyelids and below his eyes, colour his lips with
-alacktaka,[18] and look at himself in the glass. Having then eaten betel
+alacktaka, and look at himself in the glass. Having then eaten betel
 leaves, with other things that give fragrance to the mouth, he should
 perform his usual business. He should bathe daily, anoint his body with
-oil every other day, apply a lathering[19] substance to his body every
+oil every other day, apply a lathering substance to his body every
 three days, get his head (including face) shaved every four days, and
-the other parts of his body every five or ten days.[20] All these things
+the other parts of his body every five or ten days. All these things
 should be done without fail, and the sweat of the armpits should also be
 removed. Meals should be taken in the forenoon, in the afternoon, and
 again at night, according to Charayana. After breakfast, parrots and
 other birds should be taught to speak, and the fighting of cocks,
 quails, and rams should follow. A limited time should be devoted to
-diversions with Pithamardas, Vitas, and Vidushakas,[21] and then should
-be taken the midday sleep.[22] After this the householder, having put on
+diversions with Pithamardas, Vitas, and Vidushakas, and then should
+be taken the midday sleep. After this the householder, having put on
 his clothes and ornaments, should, during the afternoon, converse with
 his friends. In the evening there should be singing, and after that the
 householder, along with his friend, should await in his room, previously
@@ -743,7 +686,7 @@ duties of the day.
 The following are the things to be done occasionally as diversions or
 amusements.
 
-1. Holding festivals[23] in honour of different Deities.
+1. Holding festivals in honour of different Deities.
 
 2. Social gatherings of both sexes.
 
@@ -757,7 +700,7 @@ amusements.
 _Festivals._
 
 On some particular auspicious day, an assembly of citizens should be
-convened in the temple of Saraswati.[24] There the skill of singers, and
+convened in the temple of Saraswati. There the skill of singers, and
 of others who may have come recently to the town, should be tested, and
 on the following day they should always be given some rewards. After
 that they may either be retained or dismissed, according as their
@@ -774,7 +717,7 @@ _Social Gatherings._
 
 When men of the same age, disposition and talents, fond of the same
 diversions and with the same degree of education, sit together in
-company with public women,[25] or in an assembly of citizens, or at the
+company with public women, or in an assembly of citizens, or at the
 abode of one among themselves, and engage in agreeable discourse with
 each other, such is called a sitting in company or a social gathering.
 The subjects of discourse are to be the completion of verses half
@@ -824,19 +767,19 @@ The above amusements should be followed by a person who diverts himself
 alone in company with a courtesan, as well as by a courtesan who can do
 the same in company with her maid servants or with citizens.
 
-A Pithamarda[26] is a man without wealth, alone in the world, whose only
-property consists of his Mallika,[27] some lathering, substance and a
+A Pithamarda is a man without wealth, alone in the world, whose only
+property consists of his Mallika, some lathering, substance and a
 red cloth, who comes from a good country, and who is skilled in all the
 arts; and by teaching these arts is received in the company of citizens,
 and in the abode of public women.
 
-A Vita[28] is a man who has enjoyed the pleasures of fortune, who is a
+A Vita is a man who has enjoyed the pleasures of fortune, who is a
 compatriot of the citizens with whom he associates, who is possessed of
 the qualities of a householder, who has his wife with him, and who is
 honoured in the assembly of citizens, and in the abodes of public women,
 and lives on their means and on them.
 
-A Vidushaka[29] (also called a Vaihasaka, _i.e._, one who provokes
+A Vidushaka (also called a Vaihasaka, _i.e._, one who provokes
 laughter) is a person only acquainted with some of the arts who is a
 jester, and who is trusted by all.
 
@@ -855,96 +798,13 @@ assist one another in the same way.
 
 There are some verses on this subject as follows:--
 
-A citizen discoursing, not entirely in the Sanscrit language,[30] nor
+A citizen discoursing, not entirely in the Sanscrit language, nor
 wholly in the dialects of the country, on various topics in society,
 obtains great respect. The wise should not resort to a society disliked
 by the public, governed by no rules, and intent on the destruction of
 others. But a learned man living in a society which acts according to
 the wishes of the people, and which has pleasure for its only object is
 highly respected in this world.
-
-FOOTNOTES:
-
-[Footnote 13: This term would appear to apply generally to an inhabitant
-of Hindoostan. It is not meant only for a dweller in a city, like the
-Latin Urbanus as opposed to Rusticus.]
-
-[Footnote 14: Gift is peculiar to a Brahman, conquest to a Kshatrya,
-while purchase, deposit, and other means of acquiring wealth belongs to
-the Vaishya.]
-
-[Footnote 15: Natural garden flowers.]
-
-[Footnote 16: Such as quails, partridges, parrots, starlings, &c.]
-
-[Footnote 17: The calls of nature always performed by the Hindoos the
-first thing in the morning.]
-
-[Footnote 18: A colour made from lac.]
-
-[Footnote 19: This would act instead of soap, which was not introduced
-until the rule of the Mahomedans.]
-
-[Footnote 20: Ten days are allowed when the hair is taken out with a pair
-of pincers.]
-
-[Footnote 21: These are characters generally introduced in the Hindoo
-drama; their characteristics will be explained further on.]
-
-[Footnote 22: Noonday sleep is only allowed in summer, when the nights
-are short.]
-
-[Footnote 23: These are very common in all parts of India.]
-
-[Footnote 24: In the 'Asiatic Miscellany,' and in Sir W. Jones's works,
-will be found a spirited hymn addressed to this goddess, who is adored
-as the patroness of the fine arts, especially of music and rhetoric, as
-the inventress of the Sanscrit language, &c., &c. She is the goddess of
-harmony, eloquence, and language, and is somewhat analogous to Minerva.
-For further information about her, see Edward Moor's 'Hindoo Pantheon.']
-
-[Footnote 25: The public women, or courtesans (Vesya), of the early
-Hindoos have often been compared with the Hetera of the Greeks. The
-subject is dealt with at some length in H. H. Wilson's 'Select Specimens
-of the Theatre of the Hindoos,' in two volumes, Trubner & Co., 1871. It
-may be fairly considered that the courtesan was one of the elements, and
-an important element too, of early Hindoo society, and that her
-education and intellect were both superior to that of the women of the
-household. Wilson says, "By the Vesya or courtesan, however, we are not
-to understand a female who has disregarded the obligation of law or the
-precepts of virtue, but a character reared by a state of manners
-unfriendly to the admission of wedded females into society, and opening
-it only at the expense of reputation to women who were trained for
-association with men by personal and mental acquirements to which the
-matron was a stranger."]
-
-[Footnote 26: According to this description a Pithamarda would be a sort
-of professor of all the arts, and as such received as the friend and
-confidant of the citizens.]
-
-[Footnote 27: A seat in the form of the letter T.]
-
-[Footnote 28: The Vita is supposed to represent somewhat the character
-of the Parasite of the Greek comedy. It is possible that he was retained
-about the person of the wealthy and dissipated as a kind of private
-instructor, as well as an entertaining companion.]
-
-[Footnote 29: Vidushaka is evidently the buffoon and jester. Wilson says
-of him that he is the humble companion, not the servant, of a prince or
-man of rank, and it is a curious peculiarity that he is always a
-Brahman. He bears more affinity to Sancho Panza, perhaps, than any other
-character in western fiction, imitating him in his combination of
-shrewdness and simplicity, his fondness of good living and his love of
-ease. In the dramas of intrigue he exhibits some of the talents of
-Mercury, but with less activity and ingenuity, and occasionally suffers
-by his interference. According to the technical definition of his
-attributes he is to excite mirth by being ridiculous in person, age, and
-attire.]
-
-[Footnote 30: This means, it is presumed, that the citizen should be
-acquainted with several languages. The middle part of this paragraph
-might apply to the Nihilists and Fenians of the day, or to secret
-societies. It was perhaps a reference to the Thugs.]
 
 
 
@@ -963,11 +823,11 @@ contrary the practice of Kama with women of the higher castes, and with
 those previously enjoyed by others, even though they be of the same
 caste, is prohibited. But the practice of Kama with women of the lower
 castes, with women excommunicated from their own caste, with public
-women, and with women twice married,[31] is neither enjoined nor
+women, and with women twice married, is neither enjoined nor
 prohibited. The object of practising Kama with such women is pleasure
 only.
 
-Nayikas,[32] therefore, are of three kinds, viz., maids, women twice
+Nayikas, therefore, are of three kinds, viz., maids, women twice
 married, and public women. Gonikaputra has expressed an opinion that
 there is a fourth kind of Nayika, viz., a woman who is resorted to on
 some special occasion even though she be previously married to another.
@@ -1185,20 +1045,6 @@ who knows the intentions of others, as also the proper time and place
 for doing everything, can gain over, very easily, even a woman who is
 very hard to be obtained.
 
-FOOTNOTES:
-
-[Footnote 31: This term does not apply to a widow, but to a woman who
-had probably left her husband, and is living with some other person as a
-married woman, maritalement, as they say in France.]
-
-[Footnote 32: Any woman fit to be enjoyed without sin. The object of the
-enjoyment of women is twofold, viz., pleasure and progeny. Any woman who
-can be enjoyed without sin for the purpose of accomplishing either the
-one or the other of these two objects is a Nayika. The fourth kind of
-Nayika which Vatsya admits further on is neither enjoyed for pleasure or
-for progeny, but merely for accomplishing some special purpose in hand.
-The word Nayika is retained as a technical term throughout.]
-
 =END OF PART I.=
 
 
@@ -1262,7 +1108,7 @@ the elephant and the hare make the lowest unions.
 There are then, nine kinds of union according to dimensions. Amongst all
 these, equal unions are the best, those of a superlative degree, _i.e._,
 the highest and the lowest, are the worst, and the rest are middling,
-and with them the high[33] are better than the low.
+and with them the high are better than the low.
 
 There are also nine kinds of union according to the force of passion or
 carnal desire, as follows:
@@ -1339,7 +1185,7 @@ has fallen away. And there is a verse with regard to this as follows:
 "The fall of the semen of the man takes place only at the end of
 coition, while the semen of the woman falls continually, and after the
 semen of both has all fallen away then they wish for the discontinuance
-of coition."[34]
+of coition."
 
 Lastly, Vatsyayana is of opinion that the semen of the female falls in
 the same way as that of the male.
@@ -1366,7 +1212,7 @@ But this objection is groundless, for the person acting and the person
 acted upon being of different kinds, there is a reason for the
 difference in their ways of working; but there is no reason for any
 difference in the pleasure they feel, because they both naturally derive
-pleasure from the act they perform.[35]
+pleasure from the act they perform.
 
 On this again some may say that when different persons are engaged in
 doing the same work, we find that they accomplish the same end or
@@ -1396,7 +1242,7 @@ There being thus nine kinds of union with regard to dimensions, force of
 passion, and time, respectively, by making combinations of them,
 innumerable kinds of union would be produced. Therefore in each
 particular kind of sexual union, men should use such means as they may
-think suitable for the occasion.[36]
+think suitable for the occasion.
 
 At the first time of sexual union the passion of the male is intense,
 and his time is short, but in subsequent unions on the same day the
@@ -1441,43 +1287,6 @@ exists only for its sake.
 What has been said in this chapter upon the subject of sexual union is
 sufficient for the learned; but for the edification of the ignorant, the
 same will now be treated of at length and in detail.
-
-FOOTNOTES:
-
-[Footnote 33: High unions are said to be better than low ones, for in
-the former it is possible for the male to satisfy his own passion
-without injuring the female, while in the latter it is difficult for the
-female to be satisfied by any means.]
-
-[Footnote 34: The strength of passion with women varies a great deal,
-some being easily satisfied, and others eager and willing to go on for a
-long time. To satisfy these last thoroughly a man must have recourse to
-art. It is certain that a fluid flows from the woman in larger or
-smaller quantities, but her satisfaction is not complete until she has
-experienced the "spasme génêsique," as described in a French work
-recently published and called "Breviare de l'Amour Experimental par le
-Dr. Jules Guyot."]
-
-[Footnote 35: This is a long dissertation very common among Sanscrit
-authors, both when writing and talking socially. They start certain
-propositions, and then argue for and against them. What it is presumed
-the author means, is, that though both men and women derive pleasure
-from the act of coition, the way it is produced is brought about by
-different means, each individual performing his own work in the matter,
-irrespective of the other, and each deriving individually their own
-consciousness of pleasure from the act they perform. There is a
-difference in the work that each does, and a difference in the
-consciousness of pleasure that each has, but no difference in the
-pleasure they feel, for each feels that pleasure to a greater or lesser
-degree.]
-
-[Footnote 36: This paragraph should be particularly noted, for it
-specially applies to married men and their wives. So many men utterly
-ignore the feelings of the women, and never pay the slightest attention
-to the passion of the latter. To understand the subject thoroughly, it
-is absolutely necessary to study it, and then a person will know that,
-as dough is prepared for baking, so must a woman be prepared for sexual
-intercourse, if she is to derive satisfaction from it.]
 
 
 
@@ -1893,19 +1702,12 @@ passages of love, then love is lessened in the same way as when no union
 takes place for a long time."
 
 Even when a stranger sees at a distance a young woman with the marks of
-nails on her breast,[37] he is filled with love and respect for her.
+nails on her breast, he is filled with love and respect for her.
 
 A man, also, who carries the marks of nails and teeth on some parts of
 his body, influences the mind of a woman, even though it be ever so
 firm. In short, nothing tends to increase love so much as the effects of
 marking with the nails, and biting.
-
-FOOTNOTE:
-
-[Footnote 37: From this it would appear that in ancient times the
-breasts of women were not covered, and this is seen in the painting of
-the Ajunta and other caves, where we find that the breasts of even royal
-ladies and others are exposed.]
 
 
 
@@ -2286,7 +2088,7 @@ begun, the woman should give a reply with a hissing sound. During the
 excitement when the woman is not accustomed to striking, she continually
 utters words expressive of prohibition, sufficiently, or desire of
 liberation, as well as the words "father," "mother," intermingled with
-the sighing, weeping and thundering sounds.[38] Towards the conclusion
+the sighing, weeping and thundering sounds. Towards the conclusion
 of the congress, the breasts, the jaghana, and the sides of the woman
 should be pressed with the open palms of the hand, with some force,
 until the end of it, and then sounds like those of the quail, or the
@@ -2339,16 +2141,6 @@ strength, as also the tenderness, impetuosity, and strength of the young
 woman, should act accordingly. The various modes of enjoyment are not
 for all times or for all persons, but they should only be used at the
 proper time, and in the proper countries and places.
-
-FOOTNOTE:
-
-[Footnote 38: Men who are well acquainted with the art of love are well
-aware how often one woman differs from another in her sighs and sounds
-during the time of congress. Some women like to be talked to in the most
-loving way, others in the most abusive way, and so on. Some women enjoy
-themselves with closed eyes in silence, others make a great noise over
-it, and some almost faint away. The great art is to ascertain what gives
-them the greatest pleasure, and what specialities they like best.]
 
 
 
@@ -2492,7 +2284,7 @@ not be made to act the part of a man."
 
 CHAPTER XI.
 
-OF THE AUPARISHTAKA[39] OR MOUTH CONGRESS.
+OF THE AUPARISHTAKA OR MOUTH CONGRESS.
 
 
 There are two kinds of eunuchs, those that are disguised as males, and
@@ -2636,20 +2428,6 @@ But after all, these things being done secretly, and the mind of the man
 being fickle, how can it be known what any person will do at any
 particular time and for any particular purpose.
 
-FOOTNOTE:
-
-[Footnote 39: This practice appears to have been prevalent in some parts
-of India from a very ancient time. The "Shushruta," a work on medicine
-some two thousand years old, describes the wounding of the lingam with
-the teeth as one of the causes of a disease treated upon in that work.
-Traces of the practice are found as far back as the eighth century, for
-various kinds of the Auparishtaka are represented in the sculptures of
-many Shaiva temples at Bhuvaneshwara, near Cuttack, in Orissa, and which
-were built about that period. From these sculptures being found in such
-places, it would seem that this practice was popular in that part of the
-country at that time. It does not seem to be so prevalent now in
-Hindustan, its place perhaps is filled up by the practice of sodomy,
-introduced since the Mahomedan period.]
 
 
 
@@ -2686,7 +2464,7 @@ ointment of some other kind. He should then embrace her with his left
 arm, and with agreeable words should cause her to drink from a cup held
 in his own hand, or he may give her water to drink. They can then eat
 sweetmeats, or anything else, according to their likings, and may drink
-fresh juice,[40] soup, gruel, extracts of meat, sherbet, the juice of
+fresh juice, soup, gruel, extracts of meat, sherbet, the juice of
 mangoe fruits, the extract of the juice of the citron tree mixed with
 sugar, or anything that may be liked in different countries, and known
 to be sweet, soft, and pure. The lovers may also sit on the terrace of
@@ -2770,8 +2548,8 @@ congress.
 
 When the woman is in her own house, and has quarrelled with her lover,
 she should go to him and show how angry she is, and leave him.
-Afterwards the citizen having sent the Vita,[41] the Vidushaka[41] or
-the Pithamurda[41] to pacify her, she should accompany them back to the
+Afterwards the citizen having sent the Vita, the Vidushaka or
+the Pithamurda to pacify her, she should accompany them back to the
 house, and spend the night with her lover.
 
 Thus end the love quarrels.
@@ -2784,24 +2562,13 @@ speak well on other subjects, if he does not know the sixty-four
 divisions, no great respect is paid to him in the assembly of the
 learned. A man, devoid of other knowledge, but well acquainted with the
 sixty-four divisions, becomes a leader in any society of men and women.
-What man will not respect the sixty-four parts,[42] considering they are
+What man will not respect the sixty-four parts, considering they are
 respected by the learned, by the cunning, and by the courtezans. As the
 sixty-four parts are respected, are charming, and add to the talent of
 women, they are called by the Acharyas dear to women. A man skilled in
 the sixty-four parts is looked upon with love by his own wife, by the
 wives of others, and by courtezans.
 
-FOOTNOTES:
-
-[Footnote 40: The fresh juice of the cocoa nut tree, the date tree, and
-other kinds of palm trees are drunk in India. It will not keep fresh
-very long, but ferments rapidly, and is then distilled into liquor.]
-
-[Footnote 41: The characteristics of these three individuals have been
-given in Part I. page 31.]
-
-[Footnote 42: A definition of the sixty-four parts, or divisions, is
-given in Chapter II., page 45.]
 
 =END OF PART II.=
 
@@ -2846,7 +2613,7 @@ all the excellencies, ancestral, and paternal, of their friend, so as to
 endear him to them, and particularly to those that may be liked by the
 girl's mother. One of the friends should also disguise himself as an
 astrologer and declare the future good fortune and wealth of his friend
-by showing the existence of all the lucky omens[43] and signs,[44] the
+by showing the existence of all the lucky omens and signs, the
 good influence of planets, the auspicious entrance of the sun into a
 sign of the Zodiac, propitious stars and fortunate marks on his body.
 Others again should rouse the jealousy of the girl's mother by telling
@@ -2854,7 +2621,7 @@ her that their friend has a chance of getting from some other quarter
 even a better girl than hers.
 
 A girl should be taken as a wife, as also given in marriage, when
-fortune, signs, omens, and the words[45] of others are favourable, for,
+fortune, signs, omens, and the words of others are favourable, for,
 says Ghotakamukha, a man should not marry at any time he likes. A girl
 who is asleep, crying, or gone out of the house when sought in marriage,
 or who is betrothed to another, should not be married. The following
@@ -2871,12 +2638,12 @@ also should be avoided:
    One who has a bald head.
    One who does not like purity.
    One who has been polluted by another.
-   One who is afflicted with the Gulma.[46]
+   One who is afflicted with the Gulma.
    One who is disfigured in any way.
    One who has fully arrived at puberty.
    One who is a friend.
    One who is a younger sister.
-   One who is a Varshakari.[47]
+   One who is a Varshakari.
 
 In the same way a girl who is called by the name of one of the
 twenty-seven stars, or by the name of a tree, or of a river, is
@@ -2926,27 +2693,7 @@ proper sense of the word. Therefore a man should contract neither a high
 connection by which he is obliged to bow down afterwards to his kinsmen,
 nor a low connection, which is universally reprehended by all.
 
-FOOTNOTES:
 
-[Footnote 43: The flight of a blue jay on a person's left side is
-considered a lucky omen when one starts on any business; the appearance
-of a cat before anyone at such a time is looked on as a bad omen. There
-are many omens of the same kind.]
-
-[Footnote 44: Such as the throbbing of the right eye of men and the left
-eye of women, etc.]
-
-[Footnote 45: Before anything is begun it is a custom to go early in the
-morning to a neighbour's house, and overhear the first words that may be
-spoken in his family, and according as the words heard are of good or
-bad import, so draw an inference as to the success or failure of the
-undertaking.]
-
-[Footnote 46: A disease consisting of any glandular enlargement in any
-part of the body.]
-
-[Footnote 47: A woman, the palms of whose hands and the soles of whose
-feet are always perspiring.]
 
 
 
@@ -3067,12 +2814,8 @@ understand the hearts of girls becomes nervous, uneasy, and dejected,
 and suddenly begins to hate the man who has taken advantage of her; and
 then, when her love is not understood or returned, she sinks into
 despondency, and becomes either a hater of mankind altogether, or,
-hating her own man, she has recourse to other men.[48]
+hating her own man, she has recourse to other men.
 
-FOOTNOTE:
-
-[Footnote 48: These last few lines have been exemplified in many ways in
-many novels of this century.]
 
 
 
@@ -3319,7 +3062,7 @@ without taking into consideration the character or looks of the
 bridegroom, or when given to a man who has several wives, she never
 becomes attached to the man, even though he be endowed with good
 qualities, obedient to her will, active, strong, and healthy, and
-anxious to please her in every way.[49] A husband who is obedient but
+anxious to please her in every way. A husband who is obedient but
 yet master of himself, though he be poor and not good looking, is better
 than one who is common to many women, even though he be handsome and
 attractive. The wives of rich men, where there are many wives, are not
@@ -3334,21 +3077,13 @@ true husband who possesses the qualities that are liked by her, and such
 a husband only enjoys real superiority over her, because he is the
 husband of love.
 
-FOOTNOTE:
-
-[Footnote 49: There is a good deal of truth in the last few
-observations. Woman is a monogamous animal, and loves but one, and likes
-to feel herself alone in the affections of one man, and cannot bear
-rivals. It may also be taken as a general rule that women either married
-to, or kept by, rich men love them for their wealth, but not for
-themselves.]
 
 
 
 
 CHAPTER V.
 
-ON CERTAIN FORMS OF MARRIAGE[50]
+ON CERTAIN FORMS OF MARRIAGE
 
 
 When a girl cannot meet her lover frequently in private, she should send
@@ -3371,7 +3106,7 @@ also tell of other girls who married into great families, and being
 troubled by rival wives, became wretched and miserable, and were finally
 abandoned. She should further speak of the good fortune, the continual
 happiness, the chastity, obedience, and affection of the man, and if the
-girl gets amorous about him, she should endeavour to allay her shame[51]
+girl gets amorous about him, she should endeavour to allay her shame
 and her fear as well as her suspicions about any disaster that might
 result from the marriage. In a word, she should act the whole part of a
 female messenger by telling the girl all about the man's affection for
@@ -3446,30 +3181,13 @@ better than the one that follows it, on account of its being more in
 accordance with the commands of religion, and therefore it is only when
 it is impossible to carry the former into practice that the latter
 should be resorted to. As the fruit of all good marriages is love, the
-Gandharva[52] form of marriage is respected, even though it is formed
+Gandharva form of marriage is respected, even though it is formed
 under unfavourable circumstances, because it fulfils the object sought
 for. Another cause of the respect accorded to the Gandharva form of
 marriage is, that it brings forth happiness, causes less trouble in its
 performance than any other forms of marriage, and is above all the
 result of previous love.
 
-FOOTNOTE:
-
-[Footnote 50: These forms of marriage differ from the four kinds of
-marriage mentioned in Chapter I., and are only to be made use of when
-the girl is gained over in the way mentioned in Chapters III. and IV.]
-
-[Footnote 51: About this, see a story on the fatal effects of love at
-page 114 of "Early Ideas; a Group of Hindoo Stories," collected and
-collated by Anaryan. W. H. Allen and Co., London, 1881.]
-
-[Footnote 52: About the Gandharvavivaha form of marriage, see note to
-page 28 of Captain R. F. Burton's "Vickram and the Vampire; or Tales of
-Hindu Devilry." Longman, Green & Co., London, 1870. This form of
-matrimony was recognised by the ancient Hindus, and is frequent in
-books. It is a kind of Scotch Wedding--ultra-Caledonian--taking place by
-mutual consent without any form or ceremony. The Gandharvas are heavenly
-minstrels of Indra's court, who are supposed to be witnesses.]
 
 =END OF PART III.=
 
@@ -3622,18 +3340,13 @@ absence of her husband on a journey.
 
 There are also some verses on the subject as follows.
 
-"The wife, whether she be a woman of noble family, or a virgin widow[53]
+"The wife, whether she be a woman of noble family, or a virgin widow
 re-married, or a concubine, should lead a chaste life, devoted to her
 husband, and doing every thing for his welfare. Women acting thus,
 acquire Dharma, Artha, and Kama, obtain a high position, and generally
 keep their husbands devoted to them."
 
-FOOTNOTE:
 
-[Footnote 53: This probably refers to a girl married in her infancy, or
-when very young, and whose husband had died before she arrived at the
-age of puberty. Infant marriages are still the common custom of the
-Hindoos.]
 
 
 
@@ -3782,8 +3495,8 @@ The above sections will show how all the women of the King's seraglio
 are to behave, and therefore we shall now speak separately only about
 the king.
 
-The female attendants in the harem (called severally Kanchukiyas,[54]
-Mahallarikas,[55] and Mahallikas,[56]) should bring flowers, ointments
+The female attendants in the harem (called severally Kanchukiyas,
+Mahallarikas, and Mahallikas,) should bring flowers, ointments
 and clothes from the King's wives to the King, and he having received
 these things should give them as presents to the servants, along with
 the things worn by him the previous day. In the afternoon the King,
@@ -3805,7 +3518,7 @@ place before the King the ointments and unguents sent by each of these
 wives, marked with the seal of her ring, and their names and their
 reasons for sending the ointments should be told to the King. After this
 the King accepts the ointment of one of them, who then is informed that
-her ointment has been accepted, and that her day has been settled.[57]
+her ointment has been accepted, and that her day has been settled.
 
 At festivals, singing parties and exhibitions, all the wives of the King
 should be treated with respect and served with drinks.
@@ -3835,29 +3548,7 @@ rivals.
 
 Thus ends the conduct of a husband towards many wives.
 
-FOOTNOTES:
 
-[Footnote 54: A name given to the maid servants of the zenana of the
-Kings in ancient times, on account of their always keeping their breasts
-covered with a cloth called Kanchuki. It was customary in the olden time
-for the maid servants to cover their breasts with a cloth, while the
-Queens kept their breasts uncovered. This custom is distinctly to be
-seen in the Ajunta cave paintings.]
-
-[Footnote 55: The meaning of this word is a superior woman, so it would
-seem that a Mahallarika must be a person in authority over the maid
-servants of the house.]
-
-[Footnote 56: This was also appertaining to the rank of women employed
-in the harem. In latter times this place was given to eunuchs.]
-
-[Footnote 57: As Kings generally had many wives, it was usual for them
-to enjoy their wives by turns. But as it happened sometimes that some of
-them lost their turns owing to the King's absence, or to their being
-unwell, then in such cases the women whose turns had been passed over,
-and those whose turns had come, used to have a sort of lottery, and the
-ointment of all the claimants were sent to the King, who accepted the
-ointment of one of them, and thus settled the question.]
 
 =END OF PART IV.=
 
@@ -3920,7 +3611,7 @@ Now as a general rule Gonikaputra says that a woman falls in love with
 every handsome man she sees, and so does every man at the sight of a
 beautiful woman, but frequently they do not take any further steps,
 owing to various considerations. In love the following circumstances are
-peculiar to the woman. She loves without regard to right or wrong,[58]
+peculiar to the woman. She loves without regard to right or wrong,
 and does not try to gain over a man simply for the attainment of some
 particular purpose. Moreover, when a man first makes up to her she
 naturally shrinks from him, even though she may be willing to unite
@@ -4148,10 +3839,7 @@ A clever man, depending on his own ability, and observing carefully the
 ideas and thoughts of women, and removing the causes of their turning
 away from men, is generally successful with them."
 
-FOOTNOTE:
 
-[Footnote 58: On peut tout attendre et tout supposer d'une femme
-amoureuse.--Balzac.]
 
 
 
@@ -4423,8 +4111,8 @@ present affliction, and experience the pains of death." If the woman
 listens with a favourable ear, then on the following day the go-between,
 having observed marks of good spirits in her face, in her eyes, and in
 her manner of conversation, should again converse with her on the
-subject of the man, and should tell her the stories of Ahalya[59] and
-Indra, of Sakoontala[60] and Dushyanti, and such others as may be fitted
+subject of the man, and should tell her the stories of Ahalya and
+Indra, of Sakoontala and Dushyanti, and such others as may be fitted
 for the occasion. She should also describe to her the strength of the
 man, his talents, his skill in the sixty-four sorts of enjoyments
 mentioned by Babhravya, his good looks, and his liaison with some
@@ -4475,7 +4163,7 @@ saffron both his hands joined together as if in earnest entreaty.
 The go-between should also show to the woman ornamental figures of
 various kinds cut in leaves, together with ear ornaments, and chaplets
 made of flowers containing love letters expressive of the desire of the
-man,[61] and she should cause her to send affectionate presents to the
+man, and she should cause her to send affectionate presents to the
 man in return. After they have mutually accepted each other's presents,
 then a meeting should be arranged between them on the faith of the
 go-between.
@@ -4484,7 +4172,7 @@ The followers of Babhravya say that this meeting should take place at
 the time of going to the temple of a Deity, or on occasions of fairs,
 garden parties, theatrical performances, marriages, sacrifices,
 festivals and funerals, as also at the time of going to the river to
-bathe, or at times of natural calamities,[62] fear of robbers or hostile
+bathe, or at times of natural calamities, fear of robbers or hostile
 invasions of the country.
 
 Gonikaputra is of opinion however that these meetings had better be
@@ -4606,37 +4294,7 @@ may have been considered beyond his aspirations. She can also bring back
 a man to a woman, who, owing to some cause or other, has separated
 himself from her.
 
-FOOTNOTE:
 
-[Footnote 59: The wife of the sage Gautama, she was seduced by Indra the
-king of the Gods.]
-
-[Footnote 60: The heroine of one of the best, if not the best, of Hindoo
-plays, and the best known in Sanscrit dramatic literature. It was first
-brought to notice by Sir William Jones, and has been well and poetically
-translated by Dr. Monier Williams under the title of Sakoontala, or the
-lost ring, an Indian drama, translated into English prose and verse from
-the Sanscrit of Kalidasa.]
-
-[Footnote 61: It is presumed that something like the following French
-verses are intended.
-
-   Quand on a juré le plus profond hommage
-   Voulez-vous qu'infidè le on change de langage
-   Vous seule captive mon esprit ou mon coeur
-   Que je puisse dans vos bras seuls goûter le bonheur;
-   Je voudrais, mais en vain, que mon coeur en délire
-   Couche où ce papier n'oserait vous dire.
-   Avec soin, de ces vers lisez leur premiers mots,
-   Vous verrez quel remède il faut à tous mes maux.
-
-Or these:
-
-   Quand on vous voit, on vous aime;
-   Quand on vous aime, où vous voit-on.]
-
-[Footnote 62: It is supposed that storms, earthquakes, famines and
-pestilent diseases are here alluded to.]
 
 
 
@@ -4657,7 +4315,7 @@ necessary to be done, they should make use of the proper means as
 described in the following paragraphs.
 
 The head man of the village, the King's officer employed there, and the
-man[63] whose business it is to glean corn, can gain over female
+man whose business it is to glean corn, can gain over female
 villagers simply by asking them. It is on this account that this class
 of woman are called unchaste women by voluptuaries.
 
@@ -4755,23 +4413,23 @@ Thus end the means of gaining over the wives of others secretly.
 
 The above mentioned ways of gaining over the wives of other men are
 chiefly practised in the palaces of Kings. But a King should never enter
-the abode of another person, for Abhira,[64] the King of the Kottas was
+the abode of another person, for Abhira, the King of the Kottas was
 killed by a washerman while in the house of another, and in the same way
 Jayasana the King of the Kashis was slain by the commandment of his
 cavalry.
 
 But according to the customs of some countries there are facilities for
 Kings to make love to the wives of other men. Thus in the country of the
-Andras[65] the newly married daughters of the people thereof enter the
+Andras the newly married daughters of the people thereof enter the
 King's harem with some presents on the tenth day of their marriage, and
 having been enjoyed by the King are then dismissed. In the country of
-the Vatsagulmas[66] the wives of the chief ministers approach the King
-at night to serve him. In the country of the Vaidarbhas[67] the
+the Vatsagulmas the wives of the chief ministers approach the King
+at night to serve him. In the country of the Vaidarbhas the
 beautiful wives of the inhabitants pass a month in the King's harem
 under the pretence of affection for the King. In the country of the
-Aparatakas[68] the people gave their beautiful wives as presents to the
+Aparatakas the people gave their beautiful wives as presents to the
 ministers and the Kings. And lastly in the country of the
-Saurashtras[69] the women of the city and the country enter the royal
+Saurashtras the women of the city and the country enter the royal
 harem for the King's pleasure either together or separately.
 
 There are also two verses on the subject as follows:
@@ -4781,34 +4439,10 @@ by Kings with regard to the wives of other persons. But a King, who has
 the welfare of his people at heart, should not on any account put them
 into practice."
 
-"A King who has conquered the six[70] enemies of mankind, becomes the
+"A King who has conquered the six enemies of mankind, becomes the
 master of the whole earth."
 
-FOOTNOTES:
 
-[Footnote 63: This is a phrase used for a man who does the work of
-everybody, and who is fed by the whole village.]
-
-[Footnote 64: The exact date of the reign of these kings is not known.
-It is supposed to have been about the beginning of the Christian era.]
-
-[Footnote 65: The modern country of Tailangam, which is to the South of
-Rajamundry.]
-
-[Footnote 66: Supposed to be a tract of the country to the south of
-Malwa.]
-
-[Footnote 67: Now known by the name of Berar. Its capital was
-Kundinpura, which has been identified with the modern Oomravati.]
-
-[Footnote 68: Also called Aparantakas, being the northern and southern
-Concan.]
-
-[Footnote 69: The modern provinces of Katteeawar. Its capital was called
-Girinaguda, or the modern Junagurh.]
-
-[Footnote 70: These are Lust, Anger, Avarice, Spiritual Ignorance,
-Pride, and Envy.]
 
 
 
@@ -4883,7 +4517,7 @@ gesture, and should then try and get into the harem. If he is certain of
 her coming to some particular place he should conceal himself there, and
 at the appointed time should enter along with her as one of the guards.
 He may also go in and out, concealed in a folded bed, or bed covering,
-or with his body made invisible,[71] by means of external applications,
+or with his body made invisible, by means of external applications,
 a receipt for one of which is as follows:
 
 The heart of an ichneumon, the fruit of the long gourd (Tumbi), and the
@@ -4945,9 +4579,9 @@ themselves from carnal desire, by reason of their fear or avarice, may
 cause other persons to enter the harem, and therefore Gonikaputra says,
 that Kings should place such men in the harem as may have had their
 freedom from carnal desires, their fears, and their avarice well tested.
-Lastly, Vatsyayana says that under the influence of Dharma[72] people
+Lastly, Vatsyayana says that under the influence of Dharma people
 might be admitted, and therefore men should be selected who are free
-from carnal desires, fear, avarice, and Dharma.[73]
+from carnal desires, fear, avarice, and Dharma.
 
 The followers of Babhravya say that a man should cause his wife to
 associate with a young woman who would tell him the secrets of other
@@ -4987,21 +4621,7 @@ intended for the good of the people, and to teach them the ways of
 guarding their own wives, should not be made use of merely for gaining
 over the wives of others."
 
-FOOTNOTES:
 
-[Footnote 71: The way to make oneself invisible; the knowledge of the
-art of transmigration, or changing ourselves or others into any shape or
-form by the use of charms and spells; the power of being in two places
-at once, and other occult sciences are frequently referred to in all
-Oriental literature.]
-
-[Footnote 72: This may be considered as meaning religious influence, and
-alludes to persons who may be gained over by that means.]
-
-[Footnote 73: It may be noted from the above remarks that eunuchs do not
-appear to have been employed in the King's harem in those days, though
-they seem to have been employed for other purposes. See Part II., page
-43.]
 
 =END OF PART V.=
 
@@ -5081,7 +4701,7 @@ means.
 A courtesan, well dressed and wearing her ornaments, should sit or stand
 at the door of her house, and without exposing herself too much, should
 look on the public road so as to be seen by the passers by, she being
-like an object on view for sale.[74] She should form friendships with
+like an object on view for sale. She should form friendships with
 such persons as would enable her to separate men from other women, and
 attach them to herself, and repair her own misfortunes, to acquire
 wealth, and to protect her from being bullied, or set upon by persons
@@ -5275,11 +4895,7 @@ show him her skill in sexual enjoyment. When a courtesan is thus united
 with her lover she should always delight him by affectionate gifts, by
 conversation, and by the application of tender means of enjoyment."
 
-FOOTNOTE:
 
-[Footnote 74: In England the lower classes of courtesans walk the
-streets; in India and other places in the East they sit at the windows,
-or at the doors of their houses.]
 
 
 
@@ -5449,7 +5065,7 @@ more than their cost.
 2nd. Praising his intelligence to his face.
 
 3rd. Pretending to be obliged to make gifts on occasion of festivals
-connected with vows, trees, gardens, temples, or tanks.[75]
+connected with vows, trees, gardens, temples, or tanks.
 
 4th. Pretending that at the time of going to his house, her jewels have
 been stolen either by the King's guards, or by robbers.
@@ -5639,13 +5255,7 @@ his possessions."
 "A courtesan leading in this manner the life of a wife is not troubled
 with too many lovers, and yet obtains abundance of wealth."
 
-FOOTNOTE:
 
-[Footnote 75: On the completion of a vow a festival takes place. Some
-trees such as the Peepul and Banyan trees, are invested with sacred
-threads like the Brahman's, and on the occasion of this ceremony a
-festival is given. In the same way when gardens are made, and tanks or
-temples built, then also festivals are observed.]
 
 
 
@@ -6102,7 +5712,7 @@ civil to him, this is called a doubt about the loss of wealth.
 (e). When a courtesan feels doubtful whether she would lose religious
 merit by abandoning a man who is attached to her without giving him the
 slightest favour, and thereby causing him unhappiness in this world and
-the next,[76] this doubt is called a doubt about the loss of a religious
+the next, this doubt is called a doubt about the loss of a religious
 merit.
 
 (f). When a courtesan is uncertain as to whether she might create
@@ -6251,11 +5861,7 @@ for money; for the former the ways of love are told in previous portions
 of this work, while the ways of getting money, as practised by
 courtesans, are described in this Part."
 
-FOOTNOTE:
 
-[Footnote 76: The souls of men who die with their desires unfulfilled
-are said to go to the world of the Manes, and not direct to the Supreme
-Spirit.]
 
 =END OF PART VI.=
 
@@ -6349,7 +5955,7 @@ citizens, unknown to her mother, and make them attached to her, and for
 this purpose should meet them at the time of learning to sing, and in
 places where music is played, and at the houses of other people, and
 then request her mother, through a female friend, or servant, to be
-allowed to unite herself to the man who is most agreeable to her.[77]
+allowed to unite herself to the man who is most agreeable to her.
 
 When the daughter of a courtesan is thus given to a man, the ties of
 marriage should be observed for one year, and after that she may do what
@@ -6465,7 +6071,7 @@ same effect as the preceding recipe.
 
 There are also verses on the subject as follows:
 
-"The means[78] of producing love and sexual vigour should be learnt from
+"The means of producing love and sexual vigour should be learnt from
 the science of medicine, from the Vedas, from those who are learned in
 the arts of magic, and from confidential relatives. No means should be
 tried which are doubtful in their effects, which are likely to cause
@@ -6474,25 +6080,7 @@ us in contact with impure things. Such means should only be used as are
 holy, acknowledged to be good, and approved of by Brahmans, and
 friends."
 
-FOOTNOTE:
 
-[Footnote 77: It is a custom of the courtesans of Oriental countries to
-give their daughters temporarily in marriage when they come of age, and
-after they have received an education in the Kama Sutra and other arts.
-Full details are given of this at page 76 of "Early Ideas, a group of
-Hindoo stories, collected and collated by Anaryan. W. H. Allen and Co.,
-London, 1881."]
-
-[Footnote 78: From the earliest times Oriental authors have occupied
-themselves about aphrodisiacs. The following note on the subject is
-taken from page 29 of a translation of the Hindoo Art of Love, otherwise
-the Anunga Runga, alluded to in the preface of this work, Part I., pages
-3 and 5:--"Most Eastern treatises divide aphrodisiacs into two different
-kinds: 1., the mechanical or natural, such as scarification,
-flagellation, etc.; and 2., the medicinal or artificial. To the former
-belong the application of insects, as is practised by some savage races;
-and all orientalists will remember the tale of the old Brahman, whose
-young wife insisted upon his being again stung by a wasp."]
 
 
 
