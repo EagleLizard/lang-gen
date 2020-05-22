@@ -5,7 +5,7 @@ const files = require('../files');
 const LangGraph = require('./lang-graph');
 
 const OUT_PATH = `${__dirname}/../out`;
-const PUNCT_WORDS = '/\\.,;:!?-'.split('');
+const PUNCT_WORDS = '/\\.,;:!?'.split('');
 
 module.exports = {
   parseFile,
@@ -55,7 +55,7 @@ async function parseFile(filePath) {
 
 function scrubPunctuation(dataStr) {
   let punctRx;
-  punctRx = /[()[\]"]/g;
+  punctRx = /[()[\]"_]/g;
   return dataStr.replace(punctRx, '');
 }
 

@@ -31,7 +31,7 @@ async function main() {
       [
         // KAMA_SUTRA_FILE_PATH,
         // PRINCE_FILE_PATH,
-        TAO_FILE_PATH,
+        // TAO_FILE_PATH,
         // ART_OF_WAR_FILE_PATH,
         // BOOK_OF_MORMON_FILE_PATH,
         // KING_JAMES_BIBLE_FILE_PATH,
@@ -47,9 +47,20 @@ async function main() {
   }, []);
   langGraph = await parseLang.analyze(parsedData, dataFilePath);
   langProducer = langGraph.getProducer();
+  // testLangProducer(langProducer, 10);
   // generateLang(langProducer, 3);
-  foreverLang(langProducer, 5);
+  foreverLang(langProducer, 10, 15);
   // foreverLangFast(langProducer);
+}
+
+function testLangProducer(langProducer, numWords) {
+  let currNode, words;
+  words = [];
+  for(let i = 0; i < numWords; ++i) {
+    currNode = langProducer.next().value;
+    words.push(currNode.value);
+  }
+  console.log(words);
 }
 
 function foreverLangFast(langProducer) {
@@ -60,7 +71,7 @@ function foreverLangFast(langProducer) {
   while(sentenceCounter !== undefined) {
     word = langProducer.next().value.value;
     isPunctuation = isWordPunctuation(word);
-    if((word === '.') && (sentenceCounter < PARAGRAPH_MAX)) {
+    if(isWordSentenceEnd(word) && (sentenceCounter < PARAGRAPH_MAX)) {
       sentenceCounter++;
     }
     if(sentenceCounter >= PARAGRAPH_MAX) {
@@ -77,7 +88,7 @@ function foreverLangFast(langProducer) {
   }
 }
 
-function foreverLang(langProducer, ms) {
+function foreverLang(langProducer, wordMs, charMs) {
   let sentenceCounter;
   sentenceCounter = 0;
   process.stdout.write('\n\t');
@@ -86,7 +97,7 @@ function foreverLang(langProducer, ms) {
     let word, insertNewline, isPunctuation;
     word = langProducer.next().value.value;
     isPunctuation = isWordPunctuation(word);
-    if((word === '.') && (sentenceCounter < PARAGRAPH_MAX)) {
+    if(isWordSentenceEnd(word) && (sentenceCounter < PARAGRAPH_MAX)) {
       sentenceCounter++;
     }
     if(sentenceCounter >= PARAGRAPH_MAX) {
@@ -97,7 +108,7 @@ function foreverLang(langProducer, ms) {
       process.stdout.write(' ');
     }
     for(let i = 0; i < word.length; ++i) {
-      await sleep(5);
+      await sleep(charMs);
       process.stdout.write(word[i]);
     }
     if(insertNewline === true) {
@@ -105,19 +116,25 @@ function foreverLang(langProducer, ms) {
     }
     setTimeout(() => {
       produceWord();
-    }, ms);
+    }, wordMs);
   }
 }
 
 function isWordPunctuation(word) {
   return (word === '.')
-      || (word === ',')
-      || (word === ':')
-      || (word === ';')
-      || (word === '-')
-      || (word === '!')
-      || (word === '?')
-      || (word === '\'');
+    || (word === ',')
+    || (word === ':')
+    || (word === ';')
+    || (word === '-')
+    || (word === '!')
+    || (word === '?')
+    || (word === '\'');
+}
+
+function isWordSentenceEnd(word) {
+  return (word === '.')
+    || (word === '!')
+    || (word === '?');
 }
 
 function sleep(ms) {

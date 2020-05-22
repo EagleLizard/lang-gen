@@ -4,14 +4,14 @@ const LangNode = require('./lang-node');
 module.exports = class LangGraph {
   constructor(name) {
     this.name = name;
-    this.langNodes = [];
+    this.langNodes = new Map;
     this.lastAdded = null;
   }
 
   add(word) {
     let foundNode;
     if(!this.hasWord(word)) {
-      this.langNodes.push(new LangNode(word));
+      this.langNodes.set(word, new LangNode(word));
     }
     foundNode = this.get(word);
     if(this.lastAdded === null) {
@@ -23,15 +23,11 @@ module.exports = class LangGraph {
   }
 
   get(word) {
-    let foundIdx;
-    foundIdx = this.findIndex(word);
-    return (foundIdx !== -1)
-      ? this.langNodes[foundIdx]
-      : undefined;
+    return this.langNodes.get(word);
   }
 
   hasWord(word) {
-    return this.get(word) !== undefined;
+    return this.langNodes.has(word);
   }
 
   breadthFirst(startWord, endWord) {
@@ -55,22 +51,28 @@ module.exports = class LangGraph {
   }
 
   getProducer(seed) {
-    let self, idx, currNode, lastNode;
+    let self, idx, currNode, lastNode, langNodes;
     self = this;
+    langNodes = [ ...self.langNodes.values() ];
     if(seed === undefined) {
       // pick one at random
-      idx = Math.floor(Math.random() * self.langNodes.length);
+      idx = Math.floor(Math.random() * [ ...self.langNodes ].length);
     } else {
-      idx = self.findIndex(seed);
+      idx = langNodes.findIndex(langNode => langNode.value === seed);
     }
-    currNode = self.langNodes[idx];
+    currNode = langNodes[idx];
     return langProducer();
 
     function* langProducer(stop) {
-      let chanceTuples, randIdx;
+      let chanceMap, chanceTuples, mergedChanceMap, randIdx;
       while(!stop) {
         yield currNode;
-        chanceTuples = [ ...currNode.getChanceMap() ];
+        if(lastNode !== undefined) {
+          chanceMap = mergeChanceMap(lastNode, currNode);
+        } else {
+          chanceMap = currNode.getChanceMap();
+        }
+        chanceTuples = [ ...chanceMap ];
         chanceTuples.sort((a, b) => {
           if(a[1] < b[1]) return 1;
           if(a[1] > b[1]) return -1;
@@ -80,6 +82,56 @@ module.exports = class LangGraph {
         lastNode = currNode;
         currNode = self.get(chanceTuples[randIdx][0]);
       }
+    }
+
+    function mergeChanceMap(prevNode, currNode) {
+      let prevRefNodes, currRefs, mergedChanceMap, prevRefs,
+        prevRefCounts, prevRefCountTotal, prevRefChanceMap;
+      /*
+        1. Get all refs from the previous node
+        3. Find all previous node refs that could lead to the current node refs
+        2. Find all refs from the current node
+       */
+      currRefs = currNode.refs;
+      prevRefs = [];
+      prevRefNodes = prevNode.refs.reduce((acc, curr) => {
+        let prevRefNode;
+        prevRefNode = self.get(curr);
+        if(!acc.includes(prevRefNode) && prevRefNode.hasSharedRefs(currNode.refs)) {
+          prevRefNode.refs.forEach(ref => {
+            if(ref !== currNode.value) {
+              prevRefs.push(ref);
+            }
+          });
+          acc.push(prevRefNode);
+        }
+        return acc;
+      }, []);
+      prevRefCounts = prevRefs.reduce((acc, curr) => {
+        if(!acc.has(curr)) {
+          acc.set(curr, 0);
+        }
+        acc.set(curr, acc.get(curr) + 1);
+        return acc;
+      }, new Map);
+      prevRefCountTotal = [ ...prevRefCounts ].reduce((acc, curr) => {
+        return acc + curr[1];
+      }, 0);
+      prevRefChanceMap = [ ...prevRefCounts ].reduce((acc, curr) => {
+        acc.set(curr[0], curr[1] / prevRefCountTotal);
+        return acc;
+      }, new Map);
+      mergedChanceMap = [ ...currNode.getChanceMap() ].reduce((acc, curr) => {
+        let ref, currChance;
+        ref = curr[0];
+        currChance = curr[1];
+        if(prevRefs.includes(ref)) {
+          currChance = currChance + prevRefChanceMap.get(ref);
+        }
+        acc.set(ref, currChance);
+        return acc;
+      }, new Map);
+      return mergedChanceMap;
     }
   }
 
